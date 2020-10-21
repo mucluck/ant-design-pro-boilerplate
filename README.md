@@ -1,3 +1,15 @@
+# Worked Ant Design Pro Boilerplate from [Ant Design Pro Documentation](https://pro.ant.design/docs/getting-started)
+
+Steps:
+
+```bash
+npm create umi myApp
+
+> ant-design-pro
+> JavaScript
+> complete
+```
+
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
